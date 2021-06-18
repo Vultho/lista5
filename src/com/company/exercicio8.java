@@ -12,9 +12,5 @@ public class exercicio8 {
         String contar = String.valueOf(numero);
 
         System.out.println(contar.length());
-
-
-
-
     }
 }
